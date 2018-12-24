@@ -1,0 +1,1919 @@
+/*******************************main-css******-*******************/
+
+/*.............................basic-css................................*/
+
+body{
+
+	background-color: #ffffff;
+
+}
+
+.container{
+
+padding: 0;
+}
+
+a{}
+
+/*.............................basic-css................................*/
+
+/*.............................header-section-1................................*/
+
+.header-section-1{
+
+margin-bottom: 15px;
+}
+
+.header-site-1{
+
+margin: 0;
+
+padding: 0;
+
+margin-top: 15px;
+}
+
+.header-site-1{
+
+}
+
+.header-site-1 ul{
+
+padding: 0;
+
+margin: 0;
+
+list-style: none;
+}
+
+.header-site-1 ul li{
+
+display: inline-block;
+}
+
+.header-site-1 ul li i{
+
+font-size: 14px;
+
+margin-right: 8px;
+}
+
+.header-site-1 ul li p{
+
+margin: 0;
+
+padding: 0;
+
+font-size: 14px;
+
+color: #463f3a;
+}
+
+.me-icon{
+
+margin-left: 30px !important;
+
+margin: 0;
+
+padding: 0;
+}
+
+.me-icon i{
+
+margin: 0 !important;
+
+padding: 0;
+
+font-size: 14px !important;
+
+color: #463f3a;
+}
+
+.info{
+
+margin: 0;
+
+padding: 0;
+
+margin-left: 8px;
+
+color: #463f3a;
+}
+
+.info a{
+	
+text-decoration: none;
+	
+color: #463f3a;
+}
+
+.header-site-2-nav{
+
+margin: 0;
+
+padding: 0;
+
+margin-top: 15px;
+
+text-align: right;
+
+display: inline-block;
+}
+
+.nav-1{
+
+margin: 0;
+
+padding: 0;
+}
+
+.nav-1 ul{
+
+margin: 0;
+
+padding: 0;
+
+list-style: none;
+}
+
+.nav-1 ul li{
+
+display: inline-block;
+
+margin-left: 20px;
+}
+
+.nav-1 ul li a{
+
+text-decoration: none;
+
+font-size: 14px;
+
+color: #463f3a;
+}
+
+.header-section-2{
+
+background-color: #f5f6f1;
+}
+
+.header-2-logo{
+
+padding: 0;
+
+margin: 0;
+
+padding-top: 55px;
+
+display: inline-block;
+}
+
+.header-2-logo img{
+
+width: 208px;
+}
+
+.header-2-nav{
+
+text-align: center;
+
+margin: 0;
+
+padding: 0;
+
+padding-top: 75px;
+
+padding-bottom: 75px;
+}
+
+.header-2-nav ul{
+
+list-style: none;
+
+margin: 0;
+
+padding: 0;
+}
+
+.header-2-nav ul li{
+
+display: inline-block;
+
+margin-left: 20px;
+}
+
+.header-2-nav ul li a{
+
+text-decoration: none;
+
+color: #57524d;
+
+font-size: 18px;
+}
+
+.header-2-work{
+
+text-align: right;
+
+padding: 0;
+
+margin: 0;
+}
+
+.header-2-write{
+
+padding: 0;
+
+margin: 0;
+}
+
+.header-2-write p{
+
+margin: 0;
+
+padding: 0;
+
+padding-top: 65px;
+
+color: #757575;
+
+font-size: 18px;
+
+padding-bottom: 10px;
+
+line-height: 0;
+}
+
+.header-2-write b{
+
+display: inline-block;
+
+padding: 0;
+
+margin: 0;
+
+font-size: 18px;
+
+color: #463f3a;
+
+font-weight: 500;
+}
+
+.header-2-icon{
+
+padding: 0;
+
+margin: 0;
+
+margin-top: 65px;
+}
+
+.header-2-icon i{font-size: 18px;}
+
+.h1{
+	
+font-size: 18px;
+	
+color: #f56764;
+}
+
+.no-class{margin-right: 0;margin-left: 0;}
+
+/*.............................header-section-1................................*/
+
+/*.............................banner-section................................*/
+
+.banner-section{
+
+}
+
+.banner-background{
+	background-image: url(../images/banner-1.png);
+}
+
+.banner-write{
+
+margin: 0;
+
+padding: 0;
+}
+
+.banner-write h1{
+	
+margin: 0;
+	
+padding: 0;
+	
+padding-top: 100px;
+	
+padding-left: 90px;
+	
+font-size: 60px;
+	
+margin-bottom: 100px;
+}
+
+.banner-position-1{
+
+margin: 0;
+
+padding: 0;
+
+padding-top: 180px;
+
+padding-bottom: 180px;
+
+text-align: right;
+}
+
+.banner-position-1 img{
+	
+}
+
+/*.............................banner-section................................*/
+
+/*.............................featured-boxes-section................................*/
+
+.featured-boxes-section{
+
+}
+
+.featured-boxes{
+
+}
+
+.featured-boxes-write{
+
+background-color: #f5f6f1;
+
+margin: 0;
+
+padding: 0;
+
+margin-top: 40px;
+
+text-align: center;
+
+width: 370px;
+}
+
+.featured-boxes-write h1{
+
+margin: 0;
+
+padding: 0;
+
+color: #463f3a;
+
+font-weight: 500;
+
+font-size: 30px;
+
+padding-top: 30px;
+}
+
+.featured-boxes-write p{
+	
+font-size: 16px;
+	
+margin: 0;
+	
+padding: 0;
+	
+padding-top: 20px;
+	
+padding-bottom: 30px;
+	
+color: #252525;
+}
+
+.featured-boxes-write p a{
+
+	text-decoration: none !important;color: #f55856;
+
+}
+
+.featured-boxes-write p a:hover{
+	
+}
+
+.featured-boxes-write-1{
+
+}
+
+.featured-boxes-write-1 h1{
+
+}
+
+.featured-boxes-write-1 p{
+
+}
+
+.featured-boxes-write-2{
+
+}
+
+.featured-boxes-write-2 h1{
+
+}
+
+.featured-boxes-write-2 p{
+	
+}
+
+/*.............................featured-boxes-section................................*/
+
+/*.............................catigorie-section................................*/
+
+
+
+.catigorie-section{
+
+background-color: #f8f8f8;
+
+margin: 0;
+
+padding: 0;
+
+margin-top: 40px;
+}
+
+
+.border-work{
+
+}
+
+.border-1{
+	
+}
+
+.our-shoes-write{
+
+}
+
+.our-shoes-write h1{
+
+}
+
+
+.catigorie-1{
+
+padding: 0;
+
+margin: 0;
+
+display: inline-block;
+
+margin-bottom: 40px;
+}
+
+.catigorie-1 img{
+}
+
+.catigorie-write{
+
+margin: 0;
+
+padding: 0;
+
+padding-left: 20px;
+
+padding-top: 20px;
+
+background: #ffffff;
+
+padding-bottom: 20px;
+
+width: 98%;
+}
+
+.catigorie-write h1{
+
+margin: 0;
+
+padding: 0;
+
+font-size: 30px;
+
+font-weight: 600;
+}
+
+.catigorie-write p{
+
+margin: 0;
+
+padding: 0;
+
+padding-top: 20px;
+
+color: #463f3a;
+
+font-size: 16px;
+}
+
+.catigorie-write a{
+	
+padding-top: 20px !important;
+	
+display: inline-block;
+	
+text-decoration: none;
+	
+color: #f55856;
+	
+margin: 0;
+	
+padding: 0;
+}
+
+.cotigorie-product-1{
+
+}
+
+.cotigorie-product-1 img{
+	
+}
+
+.border-work{
+
+margin: 0;
+
+padding: 0;
+}
+
+.border-1{
+
+border-top: 3px solid #463f3a;
+
+border-bottom: 1px solid #463f3a;
+
+padding-bottom: 1px !important;
+
+margin: 0;
+
+padding: 0;
+
+margin-top: 50px;
+}
+
+.our-shoes-write{
+
+margin: 0;
+
+padding: 0;
+}
+
+.our-shoes-write h1{
+
+margin: 0;
+
+padding: 0;
+
+font-size: 30px;
+
+text-align: center;
+
+margin-top: 35px;
+
+margin-bottom: 40px;
+
+font-weight: 700;
+
+color: #463f3a;
+}
+
+.Arrivals-1{
+
+}
+
+.Arrivals-1 img{
+
+}
+
+.Arrivals-1 h1{
+
+}
+
+.Arrivals-1 b{
+
+}
+
+.button-1{
+
+}
+
+.button-1 a{
+
+}
+
+/*.............................catigorie-section................................*/
+
+
+/*.............................Ourlatest-Arrivals-section................................*/
+
+.Ourlatest-Arrivals-section{
+
+}
+
+.border-work{
+
+}
+
+.border-2{
+
+}
+
+.our-shoes-write-2{
+
+}
+
+.our-shoes-write-2 h1{
+
+}
+
+.Arrivals-1{
+
+margin: 0;
+}
+
+.Arivals-1-product{
+
+/* margin: 0; */
+
+/* padding: 0; */
+}
+
+.Arivals-1-product img{width: 260px;}
+
+.Arivals-1-product h1{
+
+margin: 0;
+
+padding: 0;
+
+margin-top: 20px;
+
+font-size: 18px;
+
+color: #414141;
+}
+
+.Arivals-1-product b{
+
+margin: 0;
+
+padding: 0;
+
+margin-top: 20px;
+
+display: inline-block;
+
+color: #000000;
+
+font-weight: 700;
+}
+
+.button-1{
+
+margin-top: 25px !important;
+
+margin: 0;
+
+padding: 0;
+
+background-color: #463f3a;
+
+text-align: center;
+}
+
+.button-1 a{
+
+text-decoration: none;
+
+padding-top: 10px;
+
+padding-bottom: 10px;
+
+display: inline-block;
+
+font-size: 20px;
+
+color: #ececeb;
+
+font-weight: 600;
+}
+
+/*.............................Ourlatest-Arrivals-section................................*/
+
+/*.............................Featured-section................................*/
+
+
+.Featured-section{
+
+background-color: #f8f8f8;
+
+margin-top: 40px;
+}
+
+.Featured-1{
+
+}
+
+.Featured-1 img{
+
+width: 260px;
+}
+
+.Featured-1 h1{
+
+margin: 0;
+
+margin-top: 20px;
+
+padding: 0;
+
+font-size: 18px;
+
+color: #404040;
+}
+
+.Featured-1 b{
+
+font-weight: 700;
+
+margin: 0;
+
+padding: 0;
+
+padding-top: 20px;
+
+display: inline-block;
+
+font-size: 20px;
+
+color: #000000;
+}
+
+.button-2{
+
+margin: 0;
+
+margin-top: 25px;
+
+background-color: #463f3a;
+
+text-align: center;
+
+margin-bottom: 40px;
+}
+
+.button-2 a{
+	
+text-decoration: none;
+	
+font-size: 20px;
+	
+color: #ececeb;
+	
+padding-top: 15px;
+	
+display: inline-block;
+	
+padding-bottom: 10px;
+	
+font-weight: 700;
+}
+
+/*.............................Featured-section................................*/
+
+/*.............................Latest-from-the-blog-section................................*/
+
+.Latest-from-the-blog-section{background-color: #fdfdfd;}
+
+.latest-form{
+
+}
+
+.latest-form img{
+
+}
+
+.latest-form p{
+
+font-weight: 500;
+
+margin: 0;
+
+padding: 0;
+
+display: inline-block;
+
+margin-top: 20px;
+
+font-size: 18px;
+
+color: #2a2b2c;
+}
+
+.latest-form b{
+
+display: block;
+
+font-weight: 400;
+
+margin: 0;
+
+padding: 0;
+
+margin-top: 15px;
+
+color: #746f6b;
+
+font-size: 15px;
+
+width: 96%;
+}
+
+.latest-form a{
+
+margin: 0;
+
+padding: 0;
+
+margin-top: 15px;
+
+display: inline-block;
+
+text-decoration: none;
+
+font-size: 15px;
+
+color: #f55856;
+
+margin-bottom: 90px;
+}
+
+.our-shoes-write{
+
+}
+
+
+/*.............................Latest-from-the-blog-section................................*/
+
+
+
+/*.............................Bullsy-section................................*/
+
+.Bullsy-section{
+
+background-color: #f2f2f0;
+}
+
+.Bullsy-write{
+
+margin: 0;
+
+padding: 0;
+
+padding-top: 55px;
+
+text-align: center;
+}
+
+.Bullsy-section h1{
+
+margin: 0;
+
+padding: 0;
+
+font-size: 36px;
+
+color: #463f3a;
+
+font-weight: 500;
+}
+
+.Bullsy-section p{
+	
+padding: 0;
+	
+margin: 0;
+	
+margin-top: 15px;
+	
+padding-bottom: 50px;
+	
+color: #6c6c6c;
+	
+font-size: 16px;
+}
+
+.Bullsy-section p a{
+	
+text-decoration: none;
+	
+color: #f55856;
+}
+
+/*.............................Bullsy-section................................*/
+
+/*.............................footer-1-section................................*/
+
+.footer-1-section{
+
+background-color: #463f3a;
+}
+
+.footer-logo{margin: 0;padding: 0;margin-top: 90px;}
+
+.footer-logo img{
+
+}
+
+.footer-nav{
+
+margin: 0;
+
+padding: 0;
+
+margin-top: 85px;
+}
+
+.footer-nav ul{
+
+}
+
+.footer-nav ul li {
+
+}
+
+.footer-nav ul li a{
+	
+color: #ffffff;
+}
+
+.footer-nav p{
+	
+margin: 0;
+	
+padding: 0;
+	
+margin-top: 30px;
+	
+font-size: 14px;
+	
+color: #ffffff;
+	
+margin-bottom: 80px;
+}
+
+.footer-icon{
+
+margin: 0;
+
+padding: 0;
+
+margin-top: 85px;
+
+text-align: right;
+}
+
+.footer-icon a{
+
+margin: 0;
+
+padding: 0;
+
+text-decoration: none;
+
+font-size: 14px;
+
+color: #ffffff;
+
+padding-top: 20px;
+
+background-color: #3c3631;
+
+padding-bottom: 20px;
+
+padding-left: 15px;
+
+padding-right: 15px;
+}
+
+.footer-icon a i{
+
+}
+
+
+/*.............................footer-1-section................................*/
+
+/*.............................footer-2-section................................*/
+
+.footer-2-section{
+
+background-color: #eeeeee;
+}
+
+.footer-2-social-icon{
+
+margin: 0;
+
+padding-top: 15px;
+
+text-align: left;
+
+padding-bottom: 15px;
+}
+
+.footer-2-social-icon ul{
+
+list-style: none;
+
+padding: 0;
+
+margin: 0;
+}
+
+.footer-2-social-icon ul li{
+
+display: inline-block;
+}
+
+.footer-2-social-icon ul li a{
+
+margin-right: 15px;
+
+text-decoration: none;
+
+color: #463f3a;
+}
+
+.footer-2-social-icon ul li a i{
+
+font-size: 16px;
+}
+
+.Desgined{
+
+text-align: right;
+
+padding-top: 20px;
+}
+
+.Desgined p{
+
+margin: 0;
+
+padding: 0;
+
+color: #463f3a;
+
+font-weight: 500;
+}
+
+.Desgined p a{
+	
+text-decoration: none;
+	
+color: #f55856;
+}
+
+.row{
+}
+/*.............................footer-2-section................................*/
+
+
+/**************************************** Media Query ***********************************/
+
+
+/**************************************** Media Query For Tablet ***********************************/
+
+
+
+@media (min-width: 500px) and (max-width: 768px){
+
+	.header-section-1{
+
+	}
+
+	.header-site-1{
+
+text-align: center;
+
+}
+
+	.header-site-1 ul{
+
+	}
+
+	.header-site-1 ul li{
+
+	}
+
+	.header-site-1 ul li a{
+
+	}
+
+	.header-site-1 ul li a i{
+
+	}
+
+	.header-site-2-nav{
+
+text-align: center;
+
+}
+
+	.nav-1{
+
+	}
+
+	.nav-1 ul {
+
+	}
+
+	.nav-1 ul li{
+
+	}
+
+	.nav-1 ul li a{
+
+	}
+
+	.header-section-2{
+
+	}
+
+	.header-2-logo{
+
+text-align: center;
+
+}
+
+	.header-2-logo img{
+
+	}
+
+	.header-2-nav{
+
+text-align: center;
+
+}
+
+	.header-2-nav ul{
+
+	}
+
+	.header-2-nav ul li{
+
+	}
+
+
+	.header-2-nav ul li a{
+
+	}
+
+	.h1{
+
+	}
+
+	.header-2-work{
+
+text-align: center;
+
+}
+
+	.header-2-write{
+
+	}
+
+	.header-2-write p{
+
+	}
+
+	.header-2-write b{
+
+	}
+
+	.header-2-icon{
+
+	}
+
+	.header-2-icon i{
+
+	}
+
+	.banner-section{
+
+	}
+
+	.banner-background{
+
+	}
+
+	.banner-write{
+
+	}
+
+	.banner-write h1{
+
+	}
+
+	.banner-position-1{
+
+text-align: center;
+
+}
+
+	.banner-position-1 img{
+
+	}
+
+	.featured-boxes-section{
+
+	}
+
+	.featured-boxes{
+
+text-align: -webkit-center;
+
+}
+
+	.featured-boxes h1{
+
+	}
+
+	.featured-boxes p{
+
+	}
+
+	.catigorie-section{
+
+	}
+
+	.border-work{
+
+	}
+
+	.border-1{
+
+	}
+
+	.our-shoes-write{
+
+	}
+
+	.our-shoes-write h1{
+
+	}
+
+	.catigorie-1{
+
+	}
+
+	.cotigorie-product-1{
+
+text-align: center;
+
+}
+
+	.cotigorie-product-1 img{
+
+	}
+
+	.catigorie-write{
+
+	}
+
+	.catigorie-write h1{
+
+	}
+
+	.catigorie-write p{
+
+	}
+
+	.catigorie-write a{
+
+	}
+
+	.Ourlatest-Arrivals-section{
+
+	}
+
+	.Arrivals-1{
+
+	}
+
+	.Arivals-1-product{
+
+text-align: center;
+
+}
+
+	.Arivals-1-product img{
+
+	}
+
+	.Arivals-1-product h1{
+
+	}
+
+	.Arivals-1-product b{
+
+	}
+
+	.button-1{
+
+	}
+
+	.button-1 a{
+
+	}
+
+	.Featured-section{
+
+	}
+
+	.Featured-1{
+
+text-align: center;
+}
+
+	.Featured-1 img{
+
+	}
+
+	.Featured-1 h1{
+
+	}
+
+	.Featured-1 b{
+
+	}
+
+	.button-2{
+
+	}
+
+	.button-2 a{
+
+	}
+
+	.Latest-from-the-blog-section{
+
+	}
+
+	.latest-form{
+
+text-align: center;
+}
+
+	.latest-form img{
+
+	}
+
+	.latest-form p{
+
+	}
+
+	.latest-form b{
+
+	}
+
+	.latest-form a{
+
+	}
+
+	.Bullsy-section{
+
+	}
+
+	.Bullsy-write{
+
+	}
+
+	.Bullsy-write h1{
+
+	}
+
+	.Bullsy-write p{
+
+	}
+	
+	.footer-1-section{
+
+	}
+
+	.footer-logo{
+
+	}
+
+	.footer-logo img{
+
+	}
+
+	.footer-nav{
+
+	}
+
+	.footer-nav ul{
+
+	}
+
+	.footer-nav ul li{
+
+	}
+
+	.footer-nav ul li a{
+
+	}
+
+	.footer-nav p{
+
+	}
+
+	.footer-icon{
+
+text-align: center;
+
+margin: 55px;
+
+}
+
+	.footer-icon a{
+
+text-align: center;
+
+}
+
+	.footer-icon a i{
+
+	}
+
+	.footer-2-section{
+
+	}
+
+	.footer-2-social-icon{
+
+text-align: center;
+
+}
+
+	.footer-2-social-icon ul{
+
+	}
+
+	.footer-2-social-icon ul li{
+
+	}
+
+	.footer-2-social-icon ul li a{
+
+	}
+
+	.footer-2-social-icon ul li a i{
+
+	}
+
+	.Desgined{
+
+text-align: center;
+
+}
+
+	.Desgined p{
+
+	}
+
+	.Desgined p a{
+
+	}
+
+	
+
+
+
+}
+
+/**************************************** Media Query For Tablet ***********************************/
+
+/**************************************** Media Query For mobile ***********************************/
+
+
+@media screen and (max-width: 500px){
+
+	.header-section-1{
+
+text-align: center;
+
+}
+
+	.header-site-1{
+
+text-align: center;
+
+}
+
+	.header-site-1 ul{
+
+	}
+
+	.header-site-1 ul li{
+
+	}
+
+	.header-site-1 ul li a{
+
+	}
+
+	.header-site-1 ul li a i{
+
+	}
+
+	.header-site-2-nav{
+
+text-align: center;
+
+}
+
+	.nav-1{
+
+	}
+
+	.nav-1 ul {
+
+	}
+
+	.nav-1 ul li{
+
+	}
+
+	.nav-1 ul li a{
+
+	}
+
+	.header-section-2{
+
+text-align: center;
+
+}
+
+	.header-2-logo{
+
+	}
+
+	.header-2-logo img{
+
+	}
+
+	.header-2-nav{
+
+text-align: center;
+
+}
+
+	.header-2-nav ul{
+
+	}
+
+	.header-2-nav ul li{
+
+	}
+
+
+	.header-2-nav ul li a{
+
+	}
+
+	.h1{
+
+	}
+
+	.header-2-work{
+
+text-align: center;
+
+}
+
+	.header-2-write{
+
+	}
+
+	.header-2-write p{
+
+	}
+
+	.header-2-write b{
+
+	}
+
+	.header-2-icon{
+
+	}
+
+	.header-2-icon i{
+
+	}
+
+	.banner-section{
+
+text-align: center;
+
+}
+
+	.banner-background{
+
+	}
+
+	.banner-write{
+
+	}
+
+	.banner-write h1{
+
+text-align: center;
+
+padding-left: 0;
+
+}
+
+	.banner-position-1{
+
+text-align: center;
+
+}
+
+	.banner-position-1 img{
+
+width: 410px;
+
+}
+
+	.featured-boxes-section{
+
+	}
+
+	.featured-boxes{
+
+text-align: -webkit-center;
+
+}
+
+	.featured-boxes h1{
+
+	}
+
+	.featured-boxes p{
+
+	}
+
+	.catigorie-section{
+
+	}
+
+	.border-work{
+
+	}
+
+	.border-1{
+
+	}
+
+	.our-shoes-write{
+
+	}
+
+	.our-shoes-write h1{
+
+	}
+
+	.catigorie-1{
+
+text-align: center;
+
+}
+
+	.cotigorie-product-1{
+
+	}
+
+	.cotigorie-product-1 img{
+
+	}
+
+	.catigorie-write{
+
+	}
+
+	.catigorie-write h1{
+
+	}
+
+	.catigorie-write p{
+
+	}
+
+	.catigorie-write a{
+
+	}
+
+	.Ourlatest-Arrivals-section{
+
+	}
+
+	.Arrivals-1{
+
+	}
+
+	.Arivals-1-product{
+
+text-align: center;
+
+}
+
+	.Arivals-1-product img{
+
+	}
+
+	.Arivals-1-product h1{
+
+	}
+
+	.Arivals-1-product b{
+
+	}
+
+	.button-1{
+
+	}
+
+	.button-1 a{
+
+	}
+
+	.Featured-section{
+
+	}
+
+	.Featured-1{
+
+text-align: center;
+
+}
+
+	.Featured-1 img{
+
+	}
+
+	.Featured-1 h1{
+
+	}
+
+	.Featured-1 b{
+
+	}
+
+	.button-2{
+
+	}
+
+	.button-2 a{
+
+	}
+
+	.Latest-from-the-blog-section{
+
+	}
+
+	.latest-form{
+
+text-align: center;
+
+}
+
+	.latest-form img{
+
+	}
+
+	.latest-form p{
+
+	}
+
+	.latest-form b{
+
+	}
+
+	.latest-form a{
+
+	}
+
+	.Bullsy-section{
+
+	}
+
+	.Bullsy-write{
+
+	}
+
+	.Bullsy-write h1{
+
+	}
+
+	.Bullsy-write p{
+
+	}
+	
+	.footer-1-section{
+
+	}
+
+	.footer-logo{
+
+text-align: center;
+
+}
+
+	.footer-logo img{
+
+	}
+
+	.footer-nav{
+
+	}
+
+	.footer-nav ul{
+
+	}
+
+	.footer-nav ul li{
+
+	}
+
+	.footer-nav ul li a{
+
+}
+
+	.footer-nav p{
+
+	}
+
+	.footer-icon{
+
+	}
+
+	.footer-icon a{
+
+	}
+
+	.footer-icon a i{
+
+	}
+
+	.footer-2-section{
+
+	}
+
+	.footer-2-social-icon{
+
+text-align: center;
+
+}
+
+	.footer-2-social-icon ul{
+
+	}
+
+	.footer-2-social-icon ul li{
+
+	}
+
+	.footer-2-social-icon ul li a{
+
+	}
+
+	.footer-2-social-icon ul li a i{
+
+	}
+
+	.Desgined{
+
+text-align: center;
+
+}
+
+	.Desgined p{
+
+	}
+
+	.Desgined p a{
+		
+	}
+
+
+}
+
+
+/**************************************** Media Query For mobile ***********************************/
